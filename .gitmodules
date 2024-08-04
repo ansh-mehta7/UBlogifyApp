@@ -1,0 +1,9 @@
+[submodule "Authorization_N_Authenticatoon"]
+	path = Authorization_N_Authenticatoon
+	url = https://github.com/ansh-mehta7/AuthN-AuthZ.git
+[submodule "BlogApp"]
+	path = BlogApp
+	url = https://github.com/ansh-mehta7/BlogApp-CRUD.git
+[submodule "filemanagement"]
+	path = filemanagement
+	url = https://github.com/ansh-mehta7/file_upload.git
